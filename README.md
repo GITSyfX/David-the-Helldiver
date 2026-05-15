@@ -28,7 +28,7 @@
 
 ## 1.4 设计目标  
 
-游戏的目标人群为喜爱战斗+资源采集循环玩法，升级但想要更具挑战性的探索与战斗过程的玩家。本作希望能结合潜水员戴夫优秀的资源升级系统以及绝地潜兵2丰富的战斗系统和怪物设计思路，为玩家带来更加爽快的体验。**需要说明的是，该项目本身的目的为验证、展示游戏策划方案，说明游戏的整体设计思路**。游戏中部分要素和背景世界观使用其他游戏中的内容仅为个人喜好，不代表本人在实际游戏制作过程中认可或采取这种做法。此外，为了在较短时间内尽可能完整的展现游戏内容，该项目在实现过程中使用了AI工具辅助制作。
+游戏的目标人群为喜爱战斗+资源采集升级，但想要更具挑战性的探索与战斗过程的玩家。本作希望能结合潜水员戴夫优秀的资源升级系统以及绝地潜兵2丰富的战斗系统和怪物设计思路，为玩家带来更加爽快的体验。**需要说明的是，该项目本身的目的为验证、展示游戏策划方案，说明游戏的整体设计思路**。游戏中部分要素和背景世界观使用其他游戏中的内容仅为个人喜好，不代表本人在实际游戏制作过程中认可或采取这种做法。此外，为了在较短时间内尽可能完整的展现游戏内容，该项目在实现过程中使用了AI工具辅助制作。
 
 
 
@@ -48,7 +48,7 @@
 
 ## 2.1 玩法循环
 
-![image-20260514155103647](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514155103647.png)
+![image-20260514155103647](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514155103647.png)
 
 ## 2.3 玩法细节
 
@@ -56,7 +56,7 @@
 
 科研站是玩家进行战斗准备和装备升级的场所，也是任务剧情主要发生以及串联两个战斗玩法的核心场景。
 
-![image-20260514164533833](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514164533833.png)
+![image-20260514164533833](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514164533833.png)
 
 ### 单人水下战斗设计
 
@@ -68,7 +68,7 @@
 
 左侧为光能族进攻敌人，右侧为玩家防守阵地。玩家可通过战备呼叫（右上角）武器对敌人进行攻击。鼠标可选择哨戒炮等阵地武器的落点（右下角红标）。阵地上有自动攻击的seaf友方作战部队，作战人数和攻击力会随着科研站的升级和人数的增加（左下角）而增加。每次战斗敌人将分多个批次进攻，批次越后数量越多。战斗胜利将推进剧情并获得奖励，失败将为白天的战斗探索带来debuff
 
- ![ChatGPT Image 2026年5月14日 16_30_12](D:/Game/游戏Demo/David the Helldiver/assets/ChatGPT Image 2026年5月14日 16_30_12.png)
+ ![ChatGPT Image 2026年5月14日 16_30_12](./../../../Downloads/游戏Demo/David the Helldiver/assets/ChatGPT Image 2026年5月14日 16_30_12.png)
 
 
 
@@ -101,7 +101,7 @@
 
   - 目的：增加深层海域的战斗难度，提升战斗不确定性；玩家可通过装备升级提升可视范围抵消该影响。
 
-    ![image-20260514165503444](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514165503444.png)
+    ![image-20260514165503444](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514165503444.png)
 
 ## 3.3 武器
 
@@ -161,7 +161,7 @@
 
 美术（AI生成供风格参考）
 
-![ig_02d18b109233472c016a03b80d8124819782c277315a2b6dbc](D:/Game/游戏Demo/David the Helldiver/assets/ig_02d18b109233472c016a03b80d8124819782c277315a2b6dbc.png)
+![ig_02d18b109233472c016a03b80d8124819782c277315a2b6dbc](./../../../Downloads/游戏Demo/David the Helldiver/assets/ig_02d18b109233472c016a03b80d8124819782c277315a2b6dbc.png)
 
 ###  中立单位
 
@@ -188,7 +188,7 @@
 
 - 美术（AI生成供风格参考）：
 
-  ![ig_0f2f3f652ae9bcdb016a03bd1e8c108190b3ba70149338cc97](D:/Game/游戏Demo/David the Helldiver/assets/ig_0f2f3f652ae9bcdb016a03bd1e8c108190b3ba70149338cc97.png)
+  ![ig_0f2f3f652ae9bcdb016a03bd1e8c108190b3ba70149338cc97](./../../../Downloads/游戏Demo/David the Helldiver/assets/ig_0f2f3f652ae9bcdb016a03bd1e8c108190b3ba70149338cc97.png)
 
 ## 3.5 任务
 
@@ -214,7 +214,7 @@
   - 超重30%，移速惩罚为初始速度的80%
   - 超重30% 以上，移速惩罚为初始速度的50%
 
-![image-20260514172003020](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514172003020.png)
+![image-20260514172003020](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514172003020.png)
 
 ## 3.7 资源
 
@@ -242,7 +242,7 @@
     - 不同武器需要收集不同敌人的样本解锁
     - 个人武器通过终结族样本解锁，舰船和阵地武器通过超级货币解锁
 
-![image-20260514171532221](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514171532221.png)
+![image-20260514171532221](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514171532221.png)
 
 - 科研台
 
@@ -251,7 +251,7 @@
   - 所需资源：中立单位样本、鱿鱼卵、巨型卵等
   - 要求：不同功能需要收集不同敌人的样本解锁
 
-![image-20260514171543761](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514171543761.png)
+![image-20260514171543761](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514171543761.png)
 
 - 工作台
 
@@ -261,7 +261,7 @@
 
   - 要求：达成一定数量即可解锁
 
-![image-20260514171555663](D:/Game/游戏Demo/David the Helldiver/assets/image-20260514171555663.png)
+![image-20260514171555663](./../../../Downloads/游戏Demo/David the Helldiver/assets/image-20260514171555663.png)
 
 注：为了简化演示，当前demo使用资源总数代替了具体的资源需求
 
@@ -271,7 +271,7 @@
 
 - 示意图：
 
-  ![DemoBestiary_DemoUnitsOnly](D:/Game/游戏Demo/David the Helldiver/assets/DemoBestiary_DemoUnitsOnly.png)
+  ![DemoBestiary_DemoUnitsOnly](./../../../Downloads/游戏Demo/David the Helldiver/assets/DemoBestiary_DemoUnitsOnly.png)
 
 
 
