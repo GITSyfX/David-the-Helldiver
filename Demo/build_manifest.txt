@@ -1,0 +1,11 @@
+Product: DavidTheHelldiver_Demo
+BuiltAt: 2026-05-15 04:26:46
+Result: Succeeded
+TotalErrors: 0
+TotalWarnings: 1
+TotalSizeBytes: 188754749
+Executable: E:\Projects\Unity\David the helldiver Playable Demo Builds\DavidTheHelldiver_Demo_20260515_042628\DavidTheHelldiver_Demo.exe
+Scenes:
+- Assets/Scenes/MainMenu.unity
+- Assets/Scenes/HomeBase.unity
+- Assets/Scenes/DivePrototype.unity
